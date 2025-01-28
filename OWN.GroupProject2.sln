@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWN.GroupProject2.Objects", "OWN.GroupProject2.Objects\OWN.GroupProject2.Objects.csproj", "{A0BB188D-F8E3-442F-B8D5-7FCAC05B89FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWN.GroupProject2.DataLayer", "OWN.GroupProject2.DataLayer\OWN.GroupProject2.DataLayer.csproj", "{BA6F5C7B-C94F-4CDB-B103-FA2BD20CDE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BB188D-F8E3-442F-B8D5-7FCAC05B89FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BB188D-F8E3-442F-B8D5-7FCAC05B89FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BB188D-F8E3-442F-B8D5-7FCAC05B89FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BB188D-F8E3-442F-B8D5-7FCAC05B89FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6F5C7B-C94F-4CDB-B103-FA2BD20CDE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6F5C7B-C94F-4CDB-B103-FA2BD20CDE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6F5C7B-C94F-4CDB-B103-FA2BD20CDE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6F5C7B-C94F-4CDB-B103-FA2BD20CDE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
